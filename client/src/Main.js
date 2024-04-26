@@ -1,11 +1,11 @@
 import React from 'react'
 import Content from './components/Content'
+import Login from './Login'
 
 function Main() {
-  console.log('her')
   return (
     <div>
-        <Content/>
+      <Login/>
     </div>
   )
 }
